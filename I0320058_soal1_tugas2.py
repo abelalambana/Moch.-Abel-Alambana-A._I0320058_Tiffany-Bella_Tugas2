@@ -15,7 +15,7 @@ print ("4. Celcius ke Fahrenheit")
 print ("5. Reamur ke Celcius")
 
 cetak = 0
-choice = input("Masukkan pilihan anda (1/2/3/4/5/6): ")
+choice = input("Masukkan pilihan anda (1/2/3/4/5): ")
 
 if choice == "1": 
     p = float(input("Masukkan panjangnya : "))
